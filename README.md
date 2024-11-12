@@ -41,7 +41,7 @@ PequeLemon es una aplicación de menú digital diseñada para facilitar la naveg
 
 A continuación se muestran algunas capturas de pantalla clave de la aplicación:
 
-| Pantalla de Registro               | Pantalla de Inicio               | Dish Details                   | Perfil de Usuario                |
+| Pantalla de Registro               | Pantalla de Inicio               | Detalles del plato                   | Perfil de Usuario                |
 |------------------------------------|----------------------------------|--------------------------------|----------------------------------|
 | ![Registro](/register.jpg) | ![Inicio](/home.jpg) | ![Detalles del plato](/dishDetails.jpg) | ![Perfil de Usuario](/profile.jpg) |
 
