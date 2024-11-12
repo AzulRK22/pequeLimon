@@ -43,7 +43,7 @@ A continuación se muestran algunas capturas de pantalla clave de la aplicación
 
 | Pantalla de Registro               | Pantalla de Inicio               | Dish Details                   | Perfil de Usuario                |
 |------------------------------------|----------------------------------|--------------------------------|----------------------------------|
-| ![Registro](/register.png) | ![Inicio](/home.png) | ![Detalles del plato](/dishDetails.png) | ![Perfil de Usuario](/profile.png) |
+| ![Registro](/register.jpg) | ![Inicio](/home.jpg) | ![Detalles del plato](/dishDetails.jpg) | ![Perfil de Usuario](/profile.jpg) |
 
 Estas pantallas muestran el flujo de la aplicación, desde el registro inicial hasta la exploración del menú y la visualización del perfil del usuario.
 
